@@ -1,0 +1,15 @@
+{
+  "name": "boi-utils",
+  "version": "0.0.1",
+  "description": "utils for boi",
+  "main": "lib/index.js",
+  "scripts": {
+    "lint": "eslint lib"
+  },
+  "author": "zhoujunpeng <zjp0432@163.com> (https://github.com/zhoujunpeng)",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "ora": "^1.3.0"
+  }
+}
